@@ -1,0 +1,32 @@
+_repo: La-Alaska-stafeto-kaj-Kaptitoj-de-la-glacirokoj_32480
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Omelka, František
+    aliases:
+    - Omelka, Frantisek
+    - Omelka, F.
+    birthdate: 1904
+    deathdate: 1960
+    gutenberg_agent_id: '31795'
+    url: http://www.gutenberg.org/2009/agents/31795
+    wikipedia: http://eo.wikipedia.org/wiki/Franti%C5%A1ek_Omelka
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2010-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32480'
+language: eo
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Dogsledding -- Alaska -- Fiction'
+- !lcc 'PM'
+- !lcsh 'Seppala, Leonhard, 1877-1967-- Fiction'
+title: La Alaska stafeto kaj Kaptitoj de la glacirokoj
+url: http://www.gutenberg.org/ebooks/32480
